@@ -1,0 +1,3 @@
+link para Dowload do Git: https://git-scm.com/downloads
+
+o gibash é um terminal extendido para otimizar o uso do git.
